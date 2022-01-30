@@ -5,13 +5,13 @@ A small project for an employee tracker using MySQL. Designed to fit all your bu
 Keep track of your entire company with this easy tool!
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
-[Repo](#repo)
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Contributing](#contributing)
+*[Tests](#tests)
+*[Questions](#questions)
+*[Repo](#repo)
 
 ## Installation
 Node.js
