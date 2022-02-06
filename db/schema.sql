@@ -1,3 +1,8 @@
+DROP DATABASE IF EXISTS office_db;
+CREATE DATABASE office_db;
+
+USE office_db
+
 DROP TABLE IF EXISTS department;
 DROP TABLE IF EXISTS roles;
 DROP TABLE IF EXISTS employees;
